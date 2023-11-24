@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"fr.esir.omd.ci.tpmaven"}]
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.esir.omd.ci.tpmaven"}];updateSearchResults();
