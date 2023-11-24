@@ -57,9 +57,10 @@ public class FirstPdf {
         document.addCreator("Olivier Barais");
     }
         
-    static void boib(int toto) {
+    static int boib(int toto) {
     	toto += 2;
     	toto = 50;
+    	return toto;
     }
     static void addTitlePage(Document document)
             throws DocumentException {
