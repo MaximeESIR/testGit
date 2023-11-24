@@ -4,11 +4,12 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class Test1 {
+class unTest {
 
 	@Test
 	void test() {
-		fail("Not yet implemented");
+		assert(50==FirstPdf.boib(5));
+		System.out.println("test réussit !!");
 	}
 
 }
